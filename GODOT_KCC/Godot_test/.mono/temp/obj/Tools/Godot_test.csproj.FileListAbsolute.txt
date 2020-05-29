@@ -1,0 +1,5 @@
+/home/yosif-khaled/Desktop/currentProjects/Code_Following_Others/GODOT_KCC/Godot_test/.mono/temp/bin/Tools/Godot_test.dll
+/home/yosif-khaled/Desktop/currentProjects/Code_Following_Others/GODOT_KCC/Godot_test/.mono/temp/bin/Tools/Godot_test.pdb
+/home/yosif-khaled/Desktop/currentProjects/Code_Following_Others/GODOT_KCC/Godot_test/.mono/temp/obj/Tools/Godot_test.csprojAssemblyReference.cache
+/home/yosif-khaled/Desktop/currentProjects/Code_Following_Others/GODOT_KCC/Godot_test/.mono/temp/obj/Tools/Godot_test.dll
+/home/yosif-khaled/Desktop/currentProjects/Code_Following_Others/GODOT_KCC/Godot_test/.mono/temp/obj/Tools/Godot_test.pdb
