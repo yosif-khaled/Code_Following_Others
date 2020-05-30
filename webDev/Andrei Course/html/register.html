@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register</title>
+</head>
+<body>
+	<header>
+		<h4><a href="/home/yosif-khaled/Desktop/full_stack/html/index.html">back to main</a></h4>
+	</header>
+	<!-- Use GET, not POST -->
+	<!-- <div></div> allows us to divide content to add styles -->
+	<!-- <span></span> used in line-->
+	<!-- we use it to add styles to certain blocks or parts of a line -->
+	<form method="GET">
+		<label>First Name: <input type="text" name="firstName"></label><br>
+
+		Last Name: <input type="text" name="lastName"><br>
+
+		Email: <input type="email" name="email" required><br><hr>
+
+		Password: <input type="password" name="password" min="5"><br>
+
+		Birthday: <input type="date" name="birthday"><br>
+
+		Gender:<br> 
+			<input type="radio" name="gender" value="male">male<br>
+			<input type="radio" name="gender" value="female">female<br>
+			<input type="radio" name="gender" value="other">other<br>
+
+		Pets:<br>
+			<input type="checkbox" name="dog" value="dog">dog
+			<input type="checkbox" name="cat" value="cat">cat
+			<br>
+
+		Cars:<br>
+			<select name="cars">
+				<option value="volvo">Volvo</option>
+				<option value="audi">Audi</option>
+			</select><br>
+
+		<input type="submit" value="Register!">
+
+		<input type="reset">
+	</form>
+</body>
+</html>
